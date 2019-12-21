@@ -1,0 +1,813 @@
+[
+  {
+    "id": null,
+    "name": "TVP1",
+    "tvPackageDTO":   {
+      "id": null,
+      "name": "STANDARD",
+      "cost": 59.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":   {
+      "id": null,
+      "name": "STANDARD"
+    }
+  },
+  {
+    "id": null,
+    "name": "POLSAT",
+    "tvPackageDTO":   {
+      "id": null,
+      "name": "STANDARD",
+      "cost": 59.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":   {
+      "id": null,
+      "name": "STANDARD"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVN",
+    "tvPackageDTO":   {
+      "id": null,
+      "name": "STANDARD",
+      "cost": 59.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":   {
+      "id": null,
+      "name": "STANDARD"
+    }
+  },
+  {
+    "id": null,
+    "name": "DISCOVERY",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "PRZYRODA",
+      "cost": 29.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":     {
+      "id": null,
+      "name": "PRZYRODA"
+    }
+  },
+  {
+    "id": null,
+    "name": "ANIMAL PLANET",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "PRZYRODA",
+      "cost": 29.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":     {
+      "id": null,
+      "name": "PRZYRODA"
+    }
+  },
+  {
+    "id": null,
+    "name": "BBC EARTH",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "PRZYRODA",
+      "cost": 29.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":     {
+      "id": null,
+      "name": "PRZYRODA"
+    }
+  },
+  {
+    "id": null,
+    "name": "TRAVEL CHANNEL",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "PRZYRODA",
+      "cost": 29.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":     {
+      "id": null,
+      "name": "PRZYRODA"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVP HISTORIA",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "HISTORIA",
+      "cost": 9.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":   {
+      "id": null,
+      "name": "HISTORIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "TV HISTORY",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "HISTORIA",
+      "cost": 9.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":   {
+      "id": null,
+      "name": "HISTORIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "ESKA",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "MUZYKA",
+      "cost": 18.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":     {
+      "id": null,
+      "name": "MUZYKA"
+    }
+  },
+  {
+    "id": null,
+    "name": "POLO TV",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "MUZYKA",
+      "cost": 18.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":     {
+      "id": null,
+      "name": "MUZYKA"
+    }
+  },
+  {
+    "id": null,
+    "name": "VIVA",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "MUZYKA",
+      "cost": 18.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":     {
+      "id": null,
+      "name": "MUZYKA"
+    }
+  },
+  {
+    "id": null,
+    "name": "4FunTv",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "MUZYKA",
+      "cost": 18.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":     {
+      "id": null,
+      "name": "MUZYKA"
+    }
+  },
+  {
+    "id": null,
+    "name": "FOOD NETWORK",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "KUCHNIA",
+      "cost": 33.11,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":       {
+      "id": null,
+      "name": "KUCHNIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "POLSAT CAFE",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "KUCHNIA",
+      "cost": 33.11,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":       {
+      "id": null,
+      "name": "KUCHNIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "MANGO",
+    "tvPackageDTO":     {
+      "id": null,
+      "name": "KUCHNIA",
+      "cost": 33.11,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":       {
+      "id": null,
+      "name": "KUCHNIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "POLSAT SPORT",
+    "tvPackageDTO":       {
+      "id": null,
+      "name": "SPORT",
+      "cost": 22.33,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVP SPORT",
+    "tvPackageDTO":       {
+      "id": null,
+      "name": "SPORT",
+      "cost": 22.33,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "CANAL PLUS SPORT",
+    "tvPackageDTO":       {
+      "id": null,
+      "name": "SPORT",
+      "cost": 22.33,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "ELEVEN",
+    "tvPackageDTO":       {
+      "id": null,
+      "name": "SPORT",
+      "cost": 22.33,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "SPORT KLUB",
+    "tvPackageDTO":       {
+      "id": null,
+      "name": "SPORT",
+      "cost": 22.33,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVN24",
+    "tvPackageDTO": {
+      "id": null,
+      "name": "INFO",
+      "cost": 7.77,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+      ]
+    },
+    "categoryDTO": {
+      "id": null,
+      "name": "INFO"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVP INFO",
+    "tvPackageDTO": {
+      "id": null,
+      "name": "INFO",
+      "cost": 7.77,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+      ]
+    },
+    "categoryDTO": {
+      "id": null,
+      "name": "INFO"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVN24 BiS",
+    "tvPackageDTO": {
+      "id": null,
+      "name": "INFO",
+      "cost": 7.77,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+      ]
+    },
+    "categoryDTO": {
+      "id": null,
+      "name": "INFO"
+    }
+  },
+  {
+    "id": null,
+    "name": "HBO",
+    "tvPackageDTO": {
+      "id": null,
+      "name": "FILM",
+      "cost": 333.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  },
+  {
+    "id": null,
+    "name": "CANAL PLUS",
+    "tvPackageDTO": {
+      "id": null,
+      "name": "FILM",
+      "cost": 333.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVP SERIALE",
+    "tvPackageDTO": {
+      "id": null,
+      "name": "FILM",
+      "cost": 333.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  },
+  {
+    "id": null,
+    "name": "ALE KINO",
+    "tvPackageDTO": {
+      "id": null,
+      "name": "FILM",
+      "cost": 333.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  },
+  {
+    "id": null,
+    "name": "KINO TV",
+    "tvPackageDTO": {
+      "id": null,
+      "name": "FILM",
+      "cost": 333.99,
+      "agreementDurationsDTO": [
+        {
+          "id": null,
+          "duration": 6
+        },
+        {
+          "id": null,
+          "duration": 12
+        },
+        {
+          "id": null,
+          "duration": 24
+        }
+
+      ]
+    },
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  }
+]
+
+

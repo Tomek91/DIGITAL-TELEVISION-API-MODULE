@@ -1,0 +1,265 @@
+[
+  {
+    "id": null,
+    "name": "TVP1",
+    "packageName": "STANDARD",
+    "categoryDTO":   {
+      "id": null,
+      "name": "STANDARD"
+    }
+  },
+  {
+    "id": null,
+    "name": "POLSAT",
+    "packageName": "STANDARD",
+    "categoryDTO":   {
+      "id": null,
+      "name": "STANDARD"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVN",
+    "packageName": "STANDARD",
+    "categoryDTO":   {
+      "id": null,
+      "name": "STANDARD"
+    }
+  },
+  {
+    "id": null,
+    "name": "DISCOVERY",
+    "packageName": "STANDARD",
+    "categoryDTO":     {
+      "id": null,
+      "name": "PRZYRODA"
+    }
+  },
+  {
+    "id": null,
+    "name": "ANIMAL PLANET",
+    "packageName": "PRZYRODA",
+    "categoryDTO":     {
+      "id": null,
+      "name": "PRZYRODA"
+    }
+  },
+  {
+    "id": null,
+    "name": "BBC EARTH",
+    "packageName": "PRZYRODA",
+    "categoryDTO":     {
+      "id": null,
+      "name": "PRZYRODA"
+    }
+  },
+  {
+    "id": null,
+    "name": "TRAVEL CHANNEL",
+    "packageName": "PRZYRODA",
+    "categoryDTO":     {
+      "id": null,
+      "name": "PRZYRODA"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVP HISTORIA",
+    "packageName": "HISTORIA",
+    "categoryDTO":   {
+      "id": null,
+      "name": "HISTORIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "TV HISTORY",
+    "packageName": "HISTORIA",
+    "categoryDTO":   {
+      "id": null,
+      "name": "HISTORIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "ESKA",
+    "packageName": "MUZYKA",
+    "categoryDTO":     {
+      "id": null,
+      "name": "MUZYKA"
+    }
+  },
+  {
+    "id": null,
+    "name": "POLO TV",
+    "packageName": "MUZYKA",
+    "categoryDTO":     {
+      "id": null,
+      "name": "MUZYKA"
+    }
+  },
+  {
+    "id": null,
+    "name": "VIVA",
+    "packageName": "MUZYKA",
+    "categoryDTO":     {
+      "id": null,
+      "name": "MUZYKA"
+    }
+  },
+  {
+    "id": null,
+    "name": "4FunTv",
+    "packageName": "MUZYKA",
+    "categoryDTO":     {
+      "id": null,
+      "name": "MUZYKA"
+    }
+  },
+  {
+    "id": null,
+    "name": "FOOD NETWORK",
+    "packageName": "KUCHNIA",
+    "categoryDTO":       {
+      "id": null,
+      "name": "KUCHNIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "POLSAT CAFE",
+    "packageName": "KUCHNIA",
+    "categoryDTO":       {
+      "id": null,
+      "name": "KUCHNIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "MANGO",
+    "packageName": "KUCHNIA",
+    "categoryDTO":       {
+      "id": null,
+      "name": "KUCHNIA"
+    }
+  },
+  {
+    "id": null,
+    "name": "POLSAT SPORT",
+    "packageName": "SPORT",
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVP SPORT",
+    "packageName": "SPORT",
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "CANAL PLUS SPORT",
+    "packageName": "SPORT",
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "ELEVEN",
+    "packageName": "SPORT",
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "SPORT KLUB",
+    "packageName": "SPORT",
+    "categoryDTO":        {
+      "id": null,
+      "name": "SPORT"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVN24",
+    "packageName": "INFO",
+    "categoryDTO": {
+      "id": null,
+      "name": "INFO"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVP INFO",
+    "packageName": "INFO",
+    "categoryDTO": {
+      "id": null,
+      "name": "INFO"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVN24 BiS",
+    "packageName": "INFO",
+    "categoryDTO": {
+      "id": null,
+      "name": "INFO"
+    }
+  },
+  {
+    "id": null,
+    "name": "HBO",
+    "packageName": "FILM",
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  },
+  {
+    "id": null,
+    "name": "CANAL PLUS",
+    "packageName": "FILM",
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  },
+  {
+    "id": null,
+    "name": "TVP SERIALE",
+    "packageName": "FILM",
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  },
+  {
+    "id": null,
+    "name": "ALE KINO",
+    "packageName": "FILM",
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  },
+  {
+    "id": null,
+    "name": "KINO TV",
+    "packageName": "FILM",
+    "categoryDTO": {
+      "id": null,
+      "name": "FILM"
+    }
+  }
+]
+
+
